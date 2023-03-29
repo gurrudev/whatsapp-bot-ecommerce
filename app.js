@@ -14,4 +14,5 @@ const main = async () => {
         console.log(`App now running and listening on port ${port}`)
     );
 };
+
 main();
