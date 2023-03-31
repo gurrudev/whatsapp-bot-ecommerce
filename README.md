@@ -1,4 +1,4 @@
-# Whatsappcommerce Bot
+# whatsapp-bot-ecommerce
 
 📦Install
 
