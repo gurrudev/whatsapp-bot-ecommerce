@@ -28,5 +28,5 @@ $ npm run dev
     or
 $ pm2 start app.js
     or
-$ node app.js
+$ npm start
 ```
